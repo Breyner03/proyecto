@@ -1,6 +1,6 @@
 # proyecto
 1. medictac
-   una aplicacion movil diseñada para ayudar pamcientes con enfermedades cronicas o adultos mayores
+   una paguina weed diseñada para ayudar pamcientes con enfermedades cronicas o adultos mayores
 2.integrante
 Breyner David Avila Rivera   - https://github.com/Breyner03
 3. modulos principales
