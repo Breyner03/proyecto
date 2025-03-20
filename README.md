@@ -1,4 +1,5 @@
 # proyecto
+DESCRICION DEL PROYECTO 
 1. medictac
    una aplicacion movil diseñada para ayudar pamcientes con enfermedades cronicas o adultos mayores
 2.integrante
