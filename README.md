@@ -1,6 +1,6 @@
 # proyecto
 *DESCRICION DEL PROYECTO*
-   con esta aplicación  es para ayudar a todas acaquellas perosnaas que por sircustancias de la vida tienen que estar medicandose y ya que a muchas personas se les pasa las horas que deben de haber de una ala otra 
+  con esta aplicación  es para ayudar a todas acaquellas perosnaas que por sircustancias de la vida tienen que estar medicandose y ya que a muchas personas se les pasa las horas que deben de haber de una ala otra 
 1. medictac
    una aplicacion movil diseñada para ayudar pamcientes con enfermedades cronicas o adultos mayores
 4. modulos principales
